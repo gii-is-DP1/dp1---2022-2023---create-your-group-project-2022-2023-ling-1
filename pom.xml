@@ -59,6 +59,19 @@
                 </picUrl>
             </properties>
         </developer>
+        <developer>
+            <id>JoseMiguel</id>
+            <name>José Miguel</name>
+            <email>josgarcas4@alum.us.es</email>
+                <roles>
+                    <role>leader</role>
+                </roles>
+            <properties>
+                <picUrl>
+                    https://upload.wikimedia.org/wikipedia/commons/5/5b/Grib_skov.jpg
+                </picUrl>
+            </properties>
+        </developer>
     </developers>
     
     
