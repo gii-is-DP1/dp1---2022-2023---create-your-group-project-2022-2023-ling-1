@@ -46,7 +46,22 @@
                 </picUrl>
             </properties>
         </developer>
+        <developer>
+            <id>Marco</id>
+            <name>Marco</name>
+            <email>marchabar1@alum.us.es</email>
+                <roles>
+                    <role>leader</role>
+                </roles>
+            <properties>
+                <picUrl>
+                    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMECQU1ImYUEZP_1NEyEDRjHuODKFk3dJxdKzEC40yHQ&amp;s
+                </picUrl>
+            </properties>
+        </developer>
     </developers>
+    
+    
 
     <dependencies>
         <!-- Spring and Spring Boot dependencies -->
