@@ -99,7 +99,20 @@
                 </picUrl>
             </properties>
         </developer>
-
+         <developer>
+            <id>micpol</id>
+            <name>Michael</name>
+            <email>micpol@alum.us.es</email>
+            <url>https://www.linkedin.com/in/michael-p%C3%B6lzl-399746198/</url>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <properties>
+                <picUrl>
+               https://avatars.githubusercontent.com/u/45309101?s=96&amp;v=4
+                </picUrl>
+            </properties>
+        </developer>
     </developers>
     
     
