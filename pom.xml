@@ -256,6 +256,23 @@
         </license>
     </licenses>
 
+    <developers>
+        <developer>
+            <id>Leo</id>
+            <name>Leonardo</name>
+            <email>leo@tmht.com</email>
+            <url>http://www. tmht.com/leo</url>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <properties>
+                <picUrl>
+                https://pbs.twimg.com/media/Eh4n9GhUMAAdO8x?format=jpg&name=large
+                </picUrl>
+            </properties>
+        </developer>
+    </developers>
+
 
 
 </project>
