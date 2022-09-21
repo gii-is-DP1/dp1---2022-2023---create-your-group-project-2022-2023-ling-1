@@ -14,6 +14,9 @@ INSERT INTO authorities(id,username,authority) VALUES (5,'josgarcas4','owner');
 INSERT INTO users(username,password,enabled) VALUES ('nichue', 'bleep', TRUE);
 INSERT INTO authorities(id,username,authority) VALUES (6, 'nichue', 'owner');
 
+INSERT INTO users(username,password,enabled) VALUES ('micpol', 'pw123', TRUE);
+INSERT INTO authorities(id,username,authority) VALUES (7, 'micpol', 'owner');
+
 -- One vet user, named vet1 with passwor v3t
 INSERT INTO users(username,password,enabled) VALUES ('vet1','v3t',TRUE);
 INSERT INTO authorities(id,username,authority) VALUES (3,'vet1','veterinarian');
