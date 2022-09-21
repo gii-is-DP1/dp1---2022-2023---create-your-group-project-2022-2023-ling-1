@@ -72,6 +72,19 @@
                 </picUrl>
             </properties>
         </developer>
+        <developer>
+            <id>nichue</id>
+            <name>Niclas</name>
+            <email>niclas.huelsmann@tum.de</email>
+                <roles>
+                    <role>developer</role>
+                </roles>
+            <properties>
+                <picUrl>
+                    https://avatars.githubusercontent.com/u/51784969?v=4
+                </picUrl>
+            </properties>
+        </developer>
     </developers>
     
     
