@@ -72,6 +72,21 @@
                 </picUrl>
             </properties>
         </developer>
+        <developer>
+            <id>Leo</id>
+            <name>Leonardo</name>
+            <email>leo@tmht.com</email>
+            <url>http://www. tmht.com/leo</url>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <properties>
+                <picUrl>
+                https://pbs.twimg.com/media/Eh4n9GhUMAAdO8x?format=jpg&amp;name=large
+                </picUrl>
+            </properties>
+        </developer>
+
     </developers>
     
     
@@ -299,9 +314,4 @@
             <url>https://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
     </licenses>
-
-    
-
-
-
 </project>
