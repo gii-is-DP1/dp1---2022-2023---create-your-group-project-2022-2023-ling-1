@@ -32,6 +32,22 @@
 
     </properties>
 
+    <developers>
+        <developer>
+            <id>Silvy</id>
+            <name>Silvy</name>
+            <email>enrcabmun@alum.us.es</email>
+                <roles>
+                    <role>leader</role>
+                </roles>
+            <properties>
+                <picUrl>
+                    https://pbs.twimg.com/profile_images/1571073705752596480/Gzdl7396_400x400.jpg
+                </picUrl>
+            </properties>
+        </developer>
+    </developers>
+
     <dependencies>
         <!-- Spring and Spring Boot dependencies -->
         <dependency>
