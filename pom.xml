@@ -113,6 +113,19 @@
                 </picUrl>
             </properties>
         </developer>
+        <developer>
+            <id>Felixo</id>
+            <name>Felixo</name>
+            <email>felgudgue@alum.us.es</email>
+                <roles>
+                    <role>leader</role>
+                </roles>
+            <properties>
+                <picUrl>
+                    https://pbs.twimg.com/media/EgS4F7dWoAABbfu?format=jpg
+                </picUrl>
+            </properties>
+        </developer>
     </developers>
     
     
